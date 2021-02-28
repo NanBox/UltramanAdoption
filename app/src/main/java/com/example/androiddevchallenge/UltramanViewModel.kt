@@ -37,7 +37,7 @@ class UltramanViewModel : ViewModel() {
             Ultraman(
                 "Ultraman Jack", "40 m", "35,000 t", "Spacium Beam",
                 "Ultraman Jack came from Nebula M78 Land of Light, also called as the “Land of Ultra,” to defend Earth from alien invasions and monsters awaken from sleep. Ultraman Jack skillfully uses the versatile weapon Ultra Bracelet which was given by Ultraseven.\n" +
-                        "Ultraman Jack takes the human form of Hideki Go who is a member of the Monster Attack Team “MAT” on Earth.",
+                    "Ultraman Jack takes the human form of Hideki Go who is a member of the Monster Attack Team “MAT” on Earth.",
                 R.drawable.jack
             ),
             Ultraman(
@@ -63,28 +63,28 @@ class UltramanViewModel : ViewModel() {
             Ultraman(
                 "Ultraman Tiga", "53 m", "44,000 t", "Zeppelion Beam",
                 "30 million years ago, Tiga, the Giant of Light, protected the ultra-ancient people. After the ultra-ancient civilization died out, Tiga had transformed into a stone statue, but was resurrected when Tiga merged with the pilot Daigo of the GUTS defense team, who possessed the genetics to turn into light. At the same time, something in the world’s equilibrium began to fall apart. Numerous inexplicable beings came to attack from space or other dimensions. Earth in the 21st century faced a crisis of survival.\n" +
-                        "Could Daigo and GUTS defeat the myriad enemies threatening humankind? And could they save the earth from destruction.\n" +
-                        "A distinguishing feature of the Ultraman Tiga story is that it is not only a science fiction tale on a grand scale, but also a well-crafted human drama. Tiga is portrayed as a “human Ultraman” that unites with the human Daigo, and the development and sufferings of Daigo and the other characters are depicted throughout. The perspective is sometimes also broadened to social issues and environmental issues, making for a story that can be enjoyed by people of various generations.",
+                    "Could Daigo and GUTS defeat the myriad enemies threatening humankind? And could they save the earth from destruction.\n" +
+                    "A distinguishing feature of the Ultraman Tiga story is that it is not only a science fiction tale on a grand scale, but also a well-crafted human drama. Tiga is portrayed as a “human Ultraman” that unites with the human Daigo, and the development and sufferings of Daigo and the other characters are depicted throughout. The perspective is sometimes also broadened to social issues and environmental issues, making for a story that can be enjoyed by people of various generations.",
                 R.drawable.tiga
             ),
             Ultraman(
                 "Ultraman Dyna", "55 m", "45,000 t", "Solgent Beam",
                 "『Ultraman Dyna』 rests on the same world-view as its predecessor series 『Ultraman Tiga』. The story takes places seven years after the era of 『Tiga』 . After the last episode of 『Tiga』, mankind advances further developments in science and technology. On each of the planets in our solar system they prepare environments in which humans can live, and enter an age of space development based on the neo frontier concept, which expands the observation area further, past the solar system. Humans penetrate space and must deal with various incidents. A mysterious shining light appears, and the series portrays the exploits of Shin Asuka, the youth who gains the power to transform into Ultraman Dyna, and his comrades in the earth defense team SUPER-GUTS.\n" +
-                        "In the first half, the producers paid attention to accumulating quality episodes, by using characters full of variety, rich variations in story from episode to episode, and a pendulum-like science fiction mind that cleverly alternates hard and soft stories. In the second half, the stories become more space-centered. Human events surrounding Asuka’s father, who disappeared into space along with the light, the circumstances of the people who live in the space age, and the battle between Dyna ,SUPER-GUTS and invaders who devise various schemes (exemplified by Sphere, who is the antagonist throughout the series) are portrayed powerfully. The series is a traditional and emotional work of SF entertainment.",
+                    "In the first half, the producers paid attention to accumulating quality episodes, by using characters full of variety, rich variations in story from episode to episode, and a pendulum-like science fiction mind that cleverly alternates hard and soft stories. In the second half, the stories become more space-centered. Human events surrounding Asuka’s father, who disappeared into space along with the light, the circumstances of the people who live in the space age, and the battle between Dyna ,SUPER-GUTS and invaders who devise various schemes (exemplified by Sphere, who is the antagonist throughout the series) are portrayed powerfully. The series is a traditional and emotional work of SF entertainment.",
                 R.drawable.dyna
             ),
             Ultraman(
                 "Ultraman Gaia", "55 m", "42,000 t", "Photon Edge",
                 "This is the story of the battle of the two Ultraman, Gaia and Agul, who protect the earth from the Root of Destruction, an unprecedented threat prophesized to attack the planet. It is a grand ensemble drama that portrays the conflict over conceptual differences for saving the earth between the youths who transform into Gaia and Agul, Gamu Takayama and Hiroya Fujimiya, and their reconciliation, while at the same time the people around them look from each of their viewpoints at the state of the earth itself and the life forms that live on it.\n" +
-                        "In a novel twist, this is the first attempt in the long Ultraman series to create a storyline that places two Ultraman with differing thoughts and positions in the same story. The earth defense team XIG has its own air, ground, and maritime expert teams that mobilize according to developments in each episode, and the use of weapons is realistically depicted, giving the story a true to life feel.\n" +
-                        "The settings and character portrayals are persistently realistic throughout, and the result is an impressive and uncompromising SF drama.",
+                    "In a novel twist, this is the first attempt in the long Ultraman series to create a storyline that places two Ultraman with differing thoughts and positions in the same story. The earth defense team XIG has its own air, ground, and maritime expert teams that mobilize according to developments in each episode, and the use of weapons is realistically depicted, giving the story a true to life feel.\n" +
+                    "The settings and character portrayals are persistently realistic throughout, and the result is an impressive and uncompromising SF drama.",
                 R.drawable.gaia
             ),
             Ultraman(
                 "Ultraman Cosmos", "47 m", "42,000 t", "Full Moon Rect",
                 "The year is 2009, eight years after Ultraman Cosmos first visited the earth and met Musashi Haruno.\n" +
-                        "The monsters have been moved to a protected area, and are coexisting with humankind.\n" +
-                        "One day, a luminescent object comes to earth from space and clings to a monster called Lidorias in the protected area. Lidorias metamorphoses into an ominous figure and runs amok. Musashi, who is a pilot candidate student at the SRC Space Development Center, tries to help Lidorias and falls into an awful predicament, but is saved by Ultraman Cosmos. Musashi unites with Cosmos in one body and rescues Lidorias. Musashi, convinced by this act of bravery and kindness toward a monster, joins the SRC’s special investigation unit TEAM EYES. They battle the enemy called Chaos Header while protecting the monsters.",
+                    "The monsters have been moved to a protected area, and are coexisting with humankind.\n" +
+                    "One day, a luminescent object comes to earth from space and clings to a monster called Lidorias in the protected area. Lidorias metamorphoses into an ominous figure and runs amok. Musashi, who is a pilot candidate student at the SRC Space Development Center, tries to help Lidorias and falls into an awful predicament, but is saved by Ultraman Cosmos. Musashi unites with Cosmos in one body and rescues Lidorias. Musashi, convinced by this act of bravery and kindness toward a monster, joins the SRC’s special investigation unit TEAM EYES. They battle the enemy called Chaos Header while protecting the monsters.",
                 R.drawable.cosmos
             ),
         )

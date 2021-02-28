@@ -47,7 +47,6 @@ fun UltramanList(list: List<Ultraman>, onItemClick: (Ultraman) -> Unit = {}) {
     }
 }
 
-
 @Preview
 @Composable
 fun UltramanListPreview() {
