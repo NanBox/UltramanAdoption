@@ -1,9 +1,12 @@
 package com.example.androiddevchallenge.ui
 
-import androidx.compose.material.*
+import androidx.compose.material.SnackbarHostState
+import androidx.compose.material.Scaffold
+import androidx.compose.material.TopAppBar
+import androidx.compose.material.Text
+import androidx.compose.material.SnackbarHost
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.rememberCoroutineScope
-import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.lifecycle.viewmodel.compose.viewModel
 import com.example.androiddevchallenge.UltramanViewModel
